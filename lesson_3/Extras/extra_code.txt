@@ -1,0 +1,6 @@
+//Psuedo_Movement_Nighty.cpp
+    // membraneFile << x << " " << y << " " << z << "\n";
+    // membraneFile << membraneX.at(0) << " " << membraneY.at(0) << " " << membraneZ.at(0) << "\n" << "\n\n";
+    // interiorFile << x << " " << y << " " << z << "\n";
+    // interiorFile << interiorX.at(0) << " " << interiorY.at(0) << " " << interiorZ.at(0) << "\n" << "\n\n";
+    
